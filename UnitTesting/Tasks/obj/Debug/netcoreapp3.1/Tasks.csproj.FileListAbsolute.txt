@@ -1,0 +1,37 @@
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/bin/Debug/netcoreapp3.1/Tasks.deps.json
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/bin/Debug/netcoreapp3.1/Tasks.dll
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/bin/Debug/netcoreapp3.1/Tasks.pdb
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/obj/Debug/netcoreapp3.1/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/obj/Debug/netcoreapp3.1/Tasks.AssemblyInfoInputs.cache
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/obj/Debug/netcoreapp3.1/Tasks.AssemblyInfo.cs
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/obj/Debug/netcoreapp3.1/Tasks.csproj.CoreCompileInputs.cache
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/obj/Debug/netcoreapp3.1/Tasks.dll
+/Users/aliaksandra_varabyo1/Downloads/DataStructures/Tasks/obj/Debug/netcoreapp3.1/Tasks.pdb
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/bin/Debug/netcoreapp3.1/Tasks.deps.json
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/bin/Debug/netcoreapp3.1/Tasks.dll
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/bin/Debug/netcoreapp3.1/Tasks.pdb
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/obj/Debug/netcoreapp3.1/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/obj/Debug/netcoreapp3.1/Tasks.AssemblyInfoInputs.cache
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/obj/Debug/netcoreapp3.1/Tasks.AssemblyInfo.cs
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/obj/Debug/netcoreapp3.1/Tasks.csproj.CoreCompileInputs.cache
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/obj/Debug/netcoreapp3.1/Tasks.dll
+/Users/aliaksandra_varabyo1/Downloads/DataStructures 2/Tasks/obj/Debug/netcoreapp3.1/Tasks.pdb
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/bin/Debug/netcoreapp3.1/Tasks.deps.json
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/bin/Debug/netcoreapp3.1/Tasks.dll
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/bin/Debug/netcoreapp3.1/Tasks.pdb
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.AssemblyInfoInputs.cache
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.AssemblyInfo.cs
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.csproj.CoreCompileInputs.cache
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.dll
+/Users/aliaksandra_varabyo1/Downloads/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.pdb
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/bin/Debug/netcoreapp3.1/Tasks.deps.json
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/bin/Debug/netcoreapp3.1/Tasks.dll
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/bin/Debug/netcoreapp3.1/Tasks.pdb
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.AssemblyInfoInputs.cache
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.AssemblyInfo.cs
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.csproj.CoreCompileInputs.cache
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.sourcelink.json
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.dll
+/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/obj/Debug/netcoreapp3.1/Tasks.pdb

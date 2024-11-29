@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Tasks.Tests
+build_property.ProjectDir = /Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks.Tests/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "izwiyfG6jlU=",
+  "success": true,
+  "projectFilePath": "/Users/aliaksandra_varabyo1/Downloads/unit_tests_result/unit_tests/UnitTesting/Tasks/Tasks.csproj",
+  "expectedPackageFiles": [
+    "/Users/aliaksandra_varabyo1/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/aliaksandra_varabyo1/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
