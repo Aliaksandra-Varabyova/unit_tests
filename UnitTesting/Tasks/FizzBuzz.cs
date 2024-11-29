@@ -9,6 +9,11 @@ namespace Tasks
         {
             var result = new List<string>();
 
+            for (int i = start; i <= end; i++)
+            {
+                result.Add(i.ToString());
+            }
+
             return result;
         }
     }
