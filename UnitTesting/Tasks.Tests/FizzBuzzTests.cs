@@ -75,5 +75,33 @@ namespace Tasks.Tests
             }
         }
 
+        [Fact]
+        public void Should_Throw_Exception_For_Number_Out_Of_Range()
+        {
+            var fizzBuzz = new FizzBuzz();
+
+            Action actLow = () => fizzBuzz.FizzBuzzForNumber(0);
+            Action actHigh = () => fizzBuzz.FizzBuzzForNumber(101);
+
+            actLow.Should().Throw<ArgumentOutOfRangeException>();
+            actHigh.Should().Throw<ArgumentOutOfRangeException>();
+        }
+
+        [Theory]
+        [InlineData(1, "1")]
+        [InlineData(3, "Fizz")]
+        [InlineData(5, "Buzz")]
+        [InlineData(15, "FizzBuzz")]
+        [InlineData(71, "71")]
+        [InlineData(97, "97")]
+        public void Should_Return_Correct_Result_For_Single_Number(int number, string expected)
+        {
+            var fizzBuzz = new FizzBuzz();
+
+            var result = fizzBuzz.FizzBuzzForNumber(number);
+
+            result.Should().Be(expected);
+        }
+
     }
 }
