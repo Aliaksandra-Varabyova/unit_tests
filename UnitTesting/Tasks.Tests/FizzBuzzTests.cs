@@ -60,5 +60,20 @@ namespace Tasks.Tests
             }
         }
 
+        [Fact]
+        public void Should_Return_Num_For_Non_Multiples_Of_3_Or_5()
+        {
+            var fizzBuzz = new FizzBuzz();
+            var result = fizzBuzz.PrintNumbers(1, 100);
+
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i % 3 != 0 && i % 5 != 0)
+                {
+                    result[i - 1].Should().Be(i.ToString());
+                }
+            }
+        }
+
     }
 }
