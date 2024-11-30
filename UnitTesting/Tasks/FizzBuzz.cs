@@ -11,7 +11,12 @@ namespace Tasks
 
             for (int i = start; i <= end; i++)
             {
-                result.Add(i.ToString());
+                if (i % 3 == 0)
+                    result.Add("Fizz");
+                else if (i % 5 == 0)
+                    result.Add("Buzz");
+                else
+                    result.Add(i.ToString());
             }
 
             return result;
